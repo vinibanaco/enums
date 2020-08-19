@@ -53,7 +53,7 @@ Thanks for reading!
 
 Found an error or have a suggestion? Submit a PR or talk to me on my socials:
 
-LinkedIn: https://www.linkedin.com/in/vinibanaco/
+LinkedIn: [/vinibanaco](https://www.linkedin.com/in/vinibanaco/)
 
 Twitter: [@vinibanaco](https://twitter.com/vinibanaco)
 
